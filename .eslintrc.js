@@ -27,7 +27,7 @@ module.exports = {
     eqeqeq: 'error',
     'eol-last': 'error',
     'comma-style': 'error',
-    'indent:': ["error", "tab", { SwitchCase: 1 }],
+    'indent': ["error", "tab", { SwitchCase: 1 }],
     'key-spacing': 'error',
     'brace-style': 'error',
     'comma-dangle': 'error',
